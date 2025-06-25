@@ -1,0 +1,15 @@
+[submodule "projects/AI-Wellness-Assistant"]
+	path = projects/AI-Wellness-Assistant
+	url = https://github.com/maryams-del/AI-Wellness-Assistant
+[submodule "projects/A2A_Project"]
+	path = projects/A2A_Project
+	url = https://github.com/smile021204/A2A_Project
+[submodule "projects/sillok"]
+	path = projects/sillok
+	url = https://github.com/2025-AIBC/sillok
+[submodule "projects/BCAI_A2A"]
+	path = projects/BCAI_A2A
+	url = https://github.com/paulmjsong/BCAI_A2A
+[submodule "projects/zkBridge_DEMO"]
+	path = projects/zkBridge_DEMO
+	url = https://github.com/Pytype/zkBridge_DEMO
